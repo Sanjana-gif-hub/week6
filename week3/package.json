@@ -1,0 +1,23 @@
+{
+  "name": "task-3.2p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjana-gif-hub/SIT725.git"
+  },
+  "author": "sanjana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sanjana-gif-hub/SIT725/issues"
+  },
+  "homepage": "https://github.com/Sanjana-gif-hub/SIT725#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
